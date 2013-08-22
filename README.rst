@@ -18,6 +18,8 @@ bulkstat(mountpoint)
 
     `open()`: contextmanager that returns a read-only file descriptor for the file
 
+    .. image:: http://i.imgur.com/EtLap2T.png
+
 Defined constants:
 
     `XFS_XFLAG_HASATTR`, `XFS_XFLAG_REALTIME`, `XFS_XFLAG_PREALLOC`, `XFS_XFLAG_IMMUTABLE`, `XFS_XFLAG_APPEND`, `XFS_XFLAG_SYNC`, `XFS_XFLAG_NOATIME`, `XFS_XFLAG_NODUMP`, `XFS_XFLAG_RTINHERIT`, `XFS_XFLAG_PROJINHERIT`, `XFS_XFLAG_NOSYMLINKS`, `XFS_XFLAG_EXTSIZE`, `XFS_XFLAG_EXTSZINHERIT`, `XFS_XFLAG_NODEFRAG`, `XFS_XFLAG_FILESTREAM`, `XFS_XFLAG_HASATTR`
