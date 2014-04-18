@@ -6,7 +6,7 @@ import os
 from stdlib cimport malloc, free
 
 
-__version__ = '0.1'
+__version__ = '0.3'
 AT_A_TIME = 25000
 
 

@@ -15,7 +15,7 @@ except ImportError:
 
 setup(
     name='xfs',
-    version='0.2',
+    version='0.3',
     description='XFS filesystem API',
     long_description=read('README.rst'),
     url='https://github.com/redbo/python-xfs',
