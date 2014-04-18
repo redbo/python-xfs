@@ -1,0 +1,3 @@
+include xfs.pyx
+include xfs.c
+include stdeb.cfg
