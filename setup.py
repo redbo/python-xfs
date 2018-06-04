@@ -15,10 +15,11 @@ except ImportError:
 
 setup(
     name='xfs',
-    version='0.3',
+    version='0.4',
     description='XFS filesystem API',
     long_description=read('README.rst'),
     url='https://github.com/redbo/python-xfs',
+    download_url = 'https://github.com/redbo/python-xfs/archive/0.4.tar.gz',
     author='Michael Barton',
     author_email='mike@weirdlooking.com',
     packages=find_packages(exclude=[]),
