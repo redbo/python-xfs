@@ -34,6 +34,7 @@ setup(
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
         'Environment :: No Input/Output (Daemon)',
+        "License :: OSI Approved :: Apache Software License",
     ]
 )
 
